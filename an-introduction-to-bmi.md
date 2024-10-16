@@ -7,8 +7,8 @@ verticalSeparator: <!-- v -->
 ---
 
 # The Basic Model Interface
-## an introduction
-coupling models to models, and models to data
+## An Introduction
+Coupling models to models, and models to data
 
 ~
 
@@ -22,6 +22,8 @@ _Mark Piper and Eric Hutton_
 
 # What?
 
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+
 <!-- v -->
 
 ## The Basic Model Interface (BMI) is a set of functions that standardizes how numerical models can be queried, modified, and run.
@@ -30,6 +32,8 @@ _Mark Piper and Eric Hutton_
 
 # Why?
 
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+
 <!-- v -->
 
 ![Ms. Car!](./assets/subaru.png "2013 Subaru Outback")
@@ -37,6 +41,8 @@ _Mark Piper and Eric Hutton_
 <!-- s -->
 
 # Where?
+
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
 <!-- v -->
 
