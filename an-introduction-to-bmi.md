@@ -7,8 +7,7 @@ verticalSeparator: <!-- v -->
 ---
 
 # The Basic Model Interface
-## An Introduction
-Coupling models to models, and models to data
+## An Introduction through the [Five Ws](https://en.wikipedia.org/wiki/Five_Ws)
 
 ~
 
@@ -20,6 +19,12 @@ _Mark Piper and Eric Hutton_
 
 <!-- s -->
 
+# Who?
+
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+
+<!-- s -->
+
 # What?
 
 <img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
@@ -27,6 +32,12 @@ _Mark Piper and Eric Hutton_
 <!-- v -->
 
 ## The Basic Model Interface (BMI) is a set of functions that standardizes how numerical models can be queried, modified, and run.
+
+<!-- s -->
+
+# When?
+
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
 
 <!-- s -->
 
@@ -47,3 +58,17 @@ _Mark Piper and Eric Hutton_
 <!-- v -->
 
 ## [bmi.readthedocs.io](https://bmi.readthedocs.io)
+
+<!-- s -->
+
+# How?
+
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+
+<!-- v -->
+
+1
+## bmi-example-python
+
+2
+## interactive notebooks on EarthscapeHub
