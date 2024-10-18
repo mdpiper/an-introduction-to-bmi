@@ -67,8 +67,8 @@ _Mark Piper and Eric Hutton_
 
 <!-- v -->
 
-1
-## bmi-example-python
+1.
+## [bmi-example-python](https://github.com/csdms/bmi-example-python)
 
-2
-## interactive notebooks on EarthscapeHub
+2.
+## [interactive notebooks on EarthscapeHub](https://explore.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fbmi-example-python&urlpath=lab%2Ftree%2Fbmi-example-python%2Fexamples%2FREADME-bmi-example-python.ipynb%3Fautodecode&branch=master)
