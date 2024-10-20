@@ -19,12 +19,6 @@ _Mark Piper and Eric Hutton_
 
 <!-- s -->
 
-# Who?
-
-<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
-
-<!-- s -->
-
 # What?
 
 <img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
@@ -35,12 +29,6 @@ _Mark Piper and Eric Hutton_
 
 <!-- s -->
 
-# When?
-
-<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
-
-<!-- s -->
-
 # Why?
 
 <img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
@@ -48,6 +36,28 @@ _Mark Piper and Eric Hutton_
 <!-- v -->
 
 ![Ms. Car!](./assets/subaru.png "2013 Subaru Outback")
+
+<!-- s -->
+
+# Who?
+
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+
+<!-- v -->
+
+## Model developers
+
+* Knowledge of model is required.
+
+<!-- s -->
+
+# When?
+
+<img align="center" width="80px" style="margin:20px 0 10px 0" src="./assets/CSDMS-logo-nocolor.png">
+
+<!-- v -->
+
+## Whenever interoperability is a design requirement
 
 <!-- s -->
 
@@ -72,3 +82,17 @@ _Mark Piper and Eric Hutton_
 
 2.
 ## [interactive notebooks on EarthscapeHub](https://explore.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fbmi-example-python&urlpath=lab%2Ftree%2Fbmi-example-python%2Fexamples%2FREADME-bmi-example-python.ipynb%3Fautodecode&branch=master)
+
+<!-- s -->
+
+# Thank you!
+## The Basic Model Interface: An Introduction
+
+~
+
+_Mark Piper and Eric Hutton_  
+
+<a href="https://csdms.colorado.edu">
+<img align="center" width="80px" style="margin:-10px 0 20px 0" src="./assets/CSDMS-logo-nocolor.png">
+</a>
+
