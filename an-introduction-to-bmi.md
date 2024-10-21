@@ -47,8 +47,6 @@ _Mark Piper and Eric Hutton_
 
 ## Model developers
 
-* Knowledge of model is required.
-
 <!-- s -->
 
 # When?
