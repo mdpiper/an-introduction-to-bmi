@@ -65,7 +65,7 @@ _Mark Piper and Eric Hutton_
 
 <!-- v -->
 
-## [bmi.readthedocs.io](https://bmi.readthedocs.io)
+## [bmi.csdms.io](https://bmi.csdms.io)
 
 <!-- s -->
 
